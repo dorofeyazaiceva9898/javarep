@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://blog.sgr-ksmt.org/sitemap.xml
